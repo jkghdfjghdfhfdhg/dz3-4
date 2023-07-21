@@ -1,0 +1,45 @@
+{
+    "card": [
+        {
+            "id": 1,
+           "rating":"134",
+            "price": 90000
+        },
+        {
+            "id": 2,
+            "rating":"50",
+            "price":    4000
+        },
+        {
+            "id": 3,
+           "rating":"15",
+            "price": 1000
+            
+        },
+        {
+            "id": 4,
+           "rating":"78",
+            "price": 890
+        },
+        {
+            "id": 5,
+            "rating":"98",
+            "price":  650  
+        },
+        {
+            "id": 6,
+           "rating":"129",
+            "price": 3000
+        },
+        {
+            "id": 7,
+           "rating":"18",
+            "price": 2000
+        },
+        {
+            "id": 8,
+            "rating":"55",
+            "price":    9890
+        }
+    ]
+}
