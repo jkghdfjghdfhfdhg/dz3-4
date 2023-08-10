@@ -19,14 +19,14 @@
   
   .card-container {
     display: flex;
-    justify-content: flex-start; /* Карточки будут начинаться с левого края */
+    justify-content: flex-start; 
     flex-wrap: wrap; 
   }
   
   .person-card {
     padding: 10px;
-    width: calc(33.33% - 20px); /* Три карточки в ряд, с отступами */
-    box-sizing: border-box; /* Учесть границу в расчетах ширины */
+    width: calc(33.33% - 20px); 
+    box-sizing: border-box; 
     margin-bottom: 20px;
   }
   
